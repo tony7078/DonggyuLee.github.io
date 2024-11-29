@@ -65,7 +65,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'research']
         },
         {
-            image: 'assets/images/halluvision.jpeg',
+            image: 'assets/images/halluvision.png',
             link: 'https://github.com/tony7078',
             title: 'Halluvision',
             demo: false,
