@@ -25,7 +25,7 @@ let render_projects = (slug) => {
             title: 'Unknown Note',
             demo: false,
             technologies: ['Spring', 'Flutter', 'MySQL'],
-            description: "A mobile application for anonymously sharing personal journals, poetry, and novels",
+            description: "A mobile application for anonymously sharing journals, poetry, and novels",
             categories: ['featured', 'web']
         },
         {
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'Credit Card Fraud Detection',
             demo: false,
             technologies: ['Python', 'PyTorch'],
-            description: "A project aimed at detecting credit card fraud using various anomaly detection method",
+            description: "A project aimed at detecting credit card fraud using various anomaly detection",
             categories: ['featured', 'ai']
         },
         {
@@ -52,8 +52,26 @@ let render_projects = (slug) => {
             title: 'Covid-19 Vaccine Hospital',
             demo: false,
             technologies: ['C#', '.Net'],
-            description: "A window program that helps you find which hospitals have your desired COVID-19 vaccine",
+            description: "A window program that finds which hospitals have specific COVID-19 vaccine",
             categories: ['web']
+        },
+        {
+            image: 'assets/images/attentive_acupoint.jpeg',
+            link: 'https://github.com/tony7078',
+            title: 'AttentiveAcupoint-Net',
+            demo: false,
+            technologies: ['Python', 'PyTorch'],
+            description: "Simplified attention & squeeze-and-excitation based network for acupoints detection",
+            categories: ['research']
+        },
+        {
+            image: 'assets/images/halluvision.jpeg',
+            link: 'https://github.com/tony7078',
+            title: 'Halluvision',
+            demo: false,
+            technologies: ['Python', 'PyTorch'],
+            description: "Assessing Hallucination in Large Language Models for Cyber Threat Intelligence",
+            categories: ['research']
         },
     ]
 
