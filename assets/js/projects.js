@@ -61,7 +61,7 @@ let render_projects = (slug) => {
             title: 'AttentiveAcupoint-Net',
             demo: false,
             technologies: ['Python', 'PyTorch'],
-            description: "Simplified attention & squeeze-and-excitation based network for acupoints detection",
+            description: "Attention & squeeze-and-excitation based network for acupoints detection",
             categories: ['featured', 'research']
         },
         {
