@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/creature_in_the_room.jpg',
+            image: 'assets/images/creature_in_the_room.png',
             link: 'https://github.com/Studio-NOS/cc-project',
             title: 'Creature in the Room',
             demo: false,
@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'web']
         },
         {
-            image: 'assets/images/hate_speech_cleaner.jpg',
+            image: 'assets/images/hate_speech_cleaner.png',
             link: 'https://github.com/tony7078/KW_hate_speech_cleaner',
             title: 'Hate Speech Cleaner',
             demo: false,
@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             categories: ['ai']
         },
         {
-            image: 'assets/images/credit_card_fraud_detection.jpg',
+            image: 'assets/images/credit_card_fraud_detection.png',
             link: 'https://github.com/tony7078/AnomalyDetection_CreditCardTransaction',
             title: 'Credit Card Fraud Detection',
             demo: false,
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'ai']
         },
         {
-            image: 'assets/images/covid_vaccine_hospital.jpeg',
+            image: 'assets/images/covid_vaccine_hospital.png',
             link: 'https://github.com/tony7078/KW_corona_vaccine_hospital',
             title: 'Covid-19 Vaccine Hospital',
             demo: false,
@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             categories: ['web']
         },
         {
-            image: 'assets/images/attentive_acupoint.jpeg',
+            image: 'assets/images/attentive_acupoint.png',
             link: 'https://github.com/tony7078',
             title: 'AttentiveAcupoint-Net',
             demo: false,
