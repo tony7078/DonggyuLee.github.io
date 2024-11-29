@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python', 'TensorFlow'],
             description: "A project aimed at detecting and filtering hate speech in text",
-            categories: ['featured', 'ai']
+            categories: ['ai']
         },
         {
             image: 'assets/images/credit_card_fraud_detection.jpg',
@@ -62,7 +62,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python', 'PyTorch'],
             description: "Simplified attention & squeeze-and-excitation based network for acupoints detection",
-            categories: ['research']
+            categories: ['featured', 'research']
         },
         {
             image: 'assets/images/halluvision.jpeg',
