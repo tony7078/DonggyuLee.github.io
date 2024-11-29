@@ -1,21 +1,21 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Donggyu Lee
+description:  Undergraduate student in the Department of Software Engineering at Kwangwoon University
+site_title: 'tony7078.github.io'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: tony7078
+blog_url: https://mextony.tistory.com
+email: tony7078@naver.com
+keybase_username: none
+twitter_username: none
+reddit_username: none
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/pp.jpeg
 
 # Google Analytics ID
 google_analytics: 
