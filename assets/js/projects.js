@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/Studio-NOS/cc-project',
             title: 'Creature in the Room',
             demo: false,
-            technologies: ['Unity', 'C#', 'Spine'],
+            technologies: ['Unity', 'C#', 'Spine', 'Firebase'],
             description: "2D Mobile Sub-Culture Battle and Raising Simulation Game",
             categories: ['featured', 'game']
         },
@@ -69,7 +69,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/tony7078',
             title: 'Halluvision',
             demo: false,
-            technologies: ['Python', 'PyTorch'],
+            technologies: ['Python', 'PyTorch', 'NoSQL'],
             description: "Assessing Hallucination in Large Language Models for Cyber Threat Intelligence",
             categories: ['research']
         },
