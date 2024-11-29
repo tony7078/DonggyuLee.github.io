@@ -20,7 +20,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'game']
         },
         {
-            image: 'assets/images/unknown_note.jpg',
+            image: 'assets/images/unknown_note.png',
             link: 'https://github.com/DU-E',
             title: 'Unknown Note',
             demo: false,
